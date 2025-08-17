@@ -19,7 +19,7 @@ This project demonstrates how to transform retail data into clear and actionable
 | Screenshot | Description |
 |------------|-------------|
 | ![Overview](01Overview.png) | Sales KPIs and overview |
-| ![Clients](02clients.png) | Client segmentation |
+| ![Clients](02client.png) | Client segmentation |
 | ![Product](03Product.png) | Product performance |
 | ![Employee](04Employee.png) | Employee metrics |
 | ![Shipper](05Shipper.png) | Shipper and delivery analysis |

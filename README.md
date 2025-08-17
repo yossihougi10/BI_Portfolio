@@ -18,7 +18,7 @@ This project demonstrates a **Retail dashboard** built in **Power BI**, designed
 |------------|-------------|
 | ![Overview](01Overview.png) | High-level KPIs, trends, and revenue breakdown |
 | ![Clients](02cilents.png) | Customer insights and top companies |
-| ![Product](03Product.png) | Product revenue, stock, and best-sellers |
+| ![Product](03Product.png) | Product revenue and best-sellers |
 | ![Employee](04Employee.png) | Employee drill-down and top performers |
 | ![Shipper](05Shipper.png) | Shipper performance and SLA tracking |
 

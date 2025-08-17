@@ -1,5 +1,1 @@
-Crafted a suite of interactive Power BI dashboards turning raw data into clear, actionable insights.
-Built on a Star-schema with optimized DAX for high performance.
-Includes KPI cards, trend & benchmark analysis, multi-level drill-down, and on-time delivery tracking.
-Result: faster decisions, better visibility, and improved business performance.
-
+build finance-grade Power BI dashboards for equity portfolios. This demo tracks USD and ILS values, 52-week highs vs current/purchase, daily & overall P/L, holdings %, and per-ticker drilldowns. The trends view adds period slicing (week/month/quarter/year) and a single-stock panel with MA150 signals and change metrics. Star-schema modeling, optimized DAX, and clean visuals keep it fast and accurate. Outcome: quicker decisions, clearer risk/return, and actionable insights for traders and long-term investors. I use Power Automate to fetch live portfolio data, keeping it continuously updated.

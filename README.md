@@ -15,9 +15,9 @@ It delivers **equity portfolio insights** with clarity, speed, and strong busine
 ## 🖼️ Screenshots
 | Screenshot | Description |
 |------------|-------------|
-| ![Overview](01Capital%20markets.png) | Capital markets portfolio overview |
-| ![Trends](02Capital%20markets.png) | Trends and slicing across multiple timeframes |
-| ![Drilldown](03Capital%20markets.png) | Per-stock drill-down insights |
+| ![Overview](01Capital%20markets.png) | Capital markets portfolio overview. |
+| ![Trends](02Capital%20markets.png) | Trends and slicing across multiple timeframes. |
+| ![Drilldown](03Capital%20markets.png) |Automated data refresh with Power Automate ensures the portfolio is always up to date with the latest market values. |
 
 ---
 
